@@ -1,4 +1,4 @@
-# dummy-movies-database
+# mock up movies database
 A website mock up that allows users to CRED a movie or TV show. Both backend and front end. 
 WHAT CAN THIS WEBSITE AND PROGRAM DO?
 This is a web based tool for you to add movies and tv shows to share with your family and friends. You and edit any movie or show you add or delete it from the database entirly.
