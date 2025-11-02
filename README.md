@@ -90,11 +90,14 @@ NOTE: you may get a warning about not being able to open because the developer c
 How do you open the website? after doing the above step open a browser of your choice and enter: http://localhost:3000/create-media in the URL bar
 NOTE: by default unless you used the example database connection string and uncommented line 1 by deleting the '#' key, you will not see any posters of super hero movies up right now. You must add them all from scratch. Before going to step 6. go see How to Use instructions.
 
-5.
+6.
 ### Stopping Server:
 To stop server without closing the window use the keys: 'control' + 'c' in terminal
 Closing the VSC window can also stop the server.
 
+
+
+_____________________________________________________________________________________
 ## How to Use:
 ### Adding Media
 adding images to content: 
