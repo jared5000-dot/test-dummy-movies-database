@@ -1,7 +1,7 @@
 # mock up movies database
 A full stack CRUD enabled mock up website that allows users to add movies or TV shows to the catalog. Both backend and front end. 
 
-## Webstie features:
+## Website features:
 + Full CRUD Operations: Create, Read, Edit, and Delete any movie or TV show in your personal database.
 + Web-Based Interface: Easy-to-use frontend accessible from any modern browser.
 + Customizable Collection: Add titles, descriptions, links, and poster images to build your catalog.
@@ -17,9 +17,7 @@ A full stack CRUD enabled mock up website that allows users to add movies or TV 
 
 
 
-instructions on how to get started:
-type this into the url
-http://localhost:3000/create-media
+
 
 ## Prerequisites set up:
 1. 
@@ -32,6 +30,7 @@ express should already be installed for you in this code so dont worry about tha
 ### Mongo DB
 Create a Mongo DB account. A free one will be all you need instructions on how to proceed the free way are as follows below.
 instructions on Mongo DB:
+ 
   a. Create MongoDB account:
 Create a free Mongo DB account. You can visit: https://www.mongodb.com . Hit the get "Started Button".
 
