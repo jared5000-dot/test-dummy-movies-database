@@ -50,9 +50,9 @@ Leave "Tag" blank.
 Then click Create Deployment.
 
   e. Create a Database:
-Now it will take you to a window that says Connect to Cluster0
-Create a username and password
-Remeber the password and username here and hit "Create Database User", but "Choose a connection method" should work too. We just want to get to that circle 2 step.
++ Now it will take you to a window that says Connect to Cluster0
++ Create a username and password
++ Remeber the password and username here and hit "Create Database User", but "Choose a connection method" should work too. We just want to get to that circle 2 step.
 Optional: You can change the password and username to whatever you like. This will be the username and password for your cluster.
 potential issues: If the button that says choose a connection method is still there in the bottom right corner then click it again.
 
