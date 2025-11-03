@@ -71,6 +71,7 @@ Just put this Connection String somewhere safe we will need it later.
 Download this zip file.
 There is a file here called .env. Open it in VSC and you will see a non # line (line 2) that says DATABASE_CONNECTION_STRING =
 on the other end of that '=' you want to paste your connection string. Example: DATABASE_CONNECTION_STRING = mongodb+srv://name:passwordddd@cluster0.libnbgg.mongodb.net/superheroes?retryWrites=true&w=majority&appName=Cluster0
+
 Optional: before running the program in terminal you can make your mongoDB cluster view easier by adding the collection name of your choice. Come up with a name or use my name "superheroes" and put it inbetween the these 2 characters in your connection string -> '/' and '?'. Example: mongodb+srv://myusername:mypassword@cluster0.xxxxx.mongodb.net/####?retryWrites=true&w=majority . Replace "####" with your collection name.  
 Viewing your database: Now when you view your mongo DB collection it will be Clusters left hand side bar, browse collection.
 
