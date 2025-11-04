@@ -35,7 +35,7 @@ Create a free Mongo DB account. A free one will do. You can visit: https://www.m
 
 
 
- d. Create a Cluster:
+ b. Create a Cluster:
   Get to the "deploy your cluster" screen and:
 + Select free.
 + Name should be Cluster0 (the default). 
@@ -43,7 +43,7 @@ Create a free Mongo DB account. A free one will do. You can visit: https://www.m
   
 Then click Create Deployment.
 
-  e. Create a Database:
+c. Create a Database:
 
 Now it will take you to a window that says Connect to Cluster0
 + Create a username and password
@@ -51,10 +51,10 @@ Now it will take you to a window that says Connect to Cluster0
 
 potential issues: If the button that says choose a connection method is still there in the bottom right corner then click it again.
 
-  f.Drivers:
+d.Drivers:
 Select "Drivers" as your connection method (ussually the top most option).
 
-  g.Get Your Connection String:
+e.Get Your Connection String:
 + Select Node.js option for Driver.
 + Select Version 6.7 or later. 
 + Copy the connection string they provide. If the connection string has  <db_password> replace it with your cluster password, likewise for the username. 
